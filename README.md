@@ -1,6 +1,6 @@
 # App Envio de Pedidos de Comida por WhatsApp
 
-Este é um aplicativo mobile desenvolvido em React Native que permite aos usuários enviar pedidos de comida por WhatsApp de forma rápida e conveniente.
+Este projeto foi criado como parte do evento Next Level Week (NLW) da Rocketseat. É um aplicativo mobile desenvolvido em React Native que permite aos usuários enviar pedidos de comida por WhatsApp de forma rápida e conveniente.
 
 ## Tecnologias Utilizadas
 
