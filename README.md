@@ -101,4 +101,4 @@ pedido-lanche-nlw/
   </tr>
 </table>
 
-**Desenvolvido por [William Faria](https://github.com/wmfarinha)**
+**Desenvolvido por [William Faria](https://github.com/wmfariadev)**
